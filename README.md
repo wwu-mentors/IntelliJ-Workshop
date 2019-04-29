@@ -22,4 +22,4 @@
   5. Specify any program arguments in the "Program Arguments" field
       - This replaces passing arguments from the command line.
   6. Click "apply"
-  Now you can run your code by clicking the green arrow on top!
+  7. Now you can run your code by clicking the green arrow on top!

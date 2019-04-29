@@ -8,7 +8,7 @@ public class DebugThis1 {
 
     public static void main(String[] args)
     {
-        System.out.println("Don't worry about this.");
+        System.out.println("Don't worry about this. <3");
         int[] testCases = {1, 3, 5, 15, 45};
 
         for(int test: testCases)

@@ -17,6 +17,7 @@
    5. Code cleanup
    6. Debugging
    7. Version control support (e.g. Git, Mercurial)
+   8. Easy project navigation
    
    ### Pros of IDEs
    1. Make coding faster

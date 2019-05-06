@@ -61,8 +61,16 @@
    2. Select which Version Control you want to use (Gitlab = "Git").
    3. Log in. (should only have to do once).
    4. Clone your repository.
+  ### Pulling, Pushing, etc.
+  The Version Control (VCS) tab  has all your Version control needs! Click on the "Git" submenu, there you can:
+   - Create a new branch ("Branches")
+   - Add files
+   - Commit and Push files (green up arrow)
+   - Pull (blue down arrow)
+  
+  
 
-# Debugging
+## Debugging
    Debug mode displays variables and their values and shows updates in real time.
    1. Click the space next to the line numbers.
       - A red dot should appear.

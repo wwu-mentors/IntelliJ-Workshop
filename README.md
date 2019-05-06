@@ -7,7 +7,7 @@
    ### Purpose
    1. Help the user write code with the use of several common features
    2. Often, let the user compile and run the code completely within the IDE
-   3. Sometimes, provide GUI elements with in attempt to abstract ugly details of coding
+   3. Sometimes, provide GUI elements in attempt to abstract ugly details of coding
    
    ### Common Features
    1. Source code editting

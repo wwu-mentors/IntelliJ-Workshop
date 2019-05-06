@@ -26,7 +26,7 @@
    
    ### Cons of IDEs
    1. Gotta jump through some hoops during setup
-   2. Make us reliant on the features they provide
+   2. Arguably, make us reliant on the features they provide
    3. Often do not support all common programming languages
 
 ## Getting started with IntelliJ

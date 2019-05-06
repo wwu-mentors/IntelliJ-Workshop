@@ -30,6 +30,7 @@
    2. Arguably, make us reliant on the features they provide
    3. Often do not support all common programming languages
    4. Lots of options
+   5. Builds its own file structure so can be difficult to use existing files.
 
 ## Getting started with IntelliJ
    1. Click "Create New Project".
@@ -62,13 +63,20 @@
    4. Clone your repository.
 
 # Debugging
+   Debug mode displays variables and their values and shows updates in real time.
    1. Click the space next to the line numbers.
       - A red dot should appear.
       - That's where your code will stop.
    2. Click the bug in the top right.
       - Now you're debugging!
    ### Some buttons to know
-   1. Show execution point scrolls to line the code is at.
-   2. Step over (F8) goes to the next line in the file.
-   3. Step into (F7) steps to the next line of execution.
-   4. Run to cursor (Alt+F9) run code until next break point.
+   - Show execution point scrolls to line the code is at.
+   - Step over (F8) goes to the next line in the file.
+   - Step into (F7) steps to the next line of execution.
+   - Run to cursor (Alt+F9) run code until next break point.
+   
+   If you only need to focus on a few variables, add them to Watches
+   - On the right side side window, click the plus with the glasses
+   - Search for a variable
+
+   

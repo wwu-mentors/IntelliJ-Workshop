@@ -67,6 +67,10 @@
    - Add files
    - Commit and Push files (green up arrow)
    - Pull (blue down arrow)
+   ### Adding to gitignore
+   - Settings/Preferences
+   - Double click "Version Control"
+   - Add what you want in the git ignore
   
   
 

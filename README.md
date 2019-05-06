@@ -20,9 +20,9 @@
    8. Easy project navigation
    
    ### Pros of IDEs
-   1. Make coding faster
+   1. Makes coding faster
    2. Clean up our mess
-   3. Useful when projects grow big
+   3. Useful when projects get big
    4. Lots of options
    
    ### Cons of IDEs
@@ -52,7 +52,7 @@
   4. Name this configuration.
   5. Specify any program arguments in the "Program Arguments" field
       - This replaces passing arguments from the command line.
-  6. Click "apply".
+  6. Click "Apply".
   7. Now you can run your code by clicking the green arrow on top!
 
 ## Version Control
@@ -71,4 +71,4 @@
    1. Show execution point scrolls to line the code is at.
    2. Step over (F8) goes to the next line in the file.
    3. Step into (F7) steps to the next line of execution.
-   4. 
+   4. Run to cursor (Alt+F9) run code until next break point.

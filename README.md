@@ -80,10 +80,10 @@
 
 ## Debugging
    Debug mode displays variables and their values and shows updates in real time.
-   1. Click the space next to the line numbers.
+   - Click the space next to the line numbers.
       - A red dot should appear.
       - That's where your code will stop.
-   2. Click the bug in the top right.
+   - Click the bug in the top right.
       - Now you're debugging!
    ### Some buttons to know
    - Show execution point scrolls to line the code is at.

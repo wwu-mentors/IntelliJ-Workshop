@@ -67,10 +67,14 @@
    - Add files
    - Commit and Push files (green up arrow)
    - Pull (blue down arrow)
+      - You can also do this in the terminal if you're very committed to it.
    ### Adding to gitignore
    - Settings/Preferences
    - Double click "Version Control"
    - Add what you want in the git ignore
+      - "Ignore specified file" to ignore specific file
+      - "Ignore files under" igonores an entire directory
+      - "Ignore all files matching" ignores files matching a pattern
   
   
 
@@ -91,4 +95,12 @@
    - On the right side side window, click the plus with the glasses
    - Search for a variable
 
-   
+  ## Other things to know:
+   - To open a terminal:
+      - View | Tool Windows | Terminal
+   - The different views:
+      - Run/Console: displays what your program outputs
+      - Debug: shows variables when debugging
+      - TODO: lists any todos listed in code
+      - Version Control: shows ignored files
+      - Terminal: is the terminal

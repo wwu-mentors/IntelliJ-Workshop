@@ -1,8 +1,8 @@
 # IntelliJ-Workshop
 
 ## What's an IDE?
-    IntelliJ is an example of an IDE
-    An integrated development environment (IDE) is a piece of software that SHOULD make your life as a programmer easier.
+   IntelliJ is an example of an IDE.
+   An integrated development environment (IDE) is a piece of software that SHOULD make your life as a programmer easier.
    
    ### Purpose
    1. Help the user write code with the use of several common features

@@ -1,7 +1,7 @@
 # IntelliJ-Workshop
 
 ## What's an IDE?
-   - An integrated development environment (IDE) is a piece of software that SHOULD make your life as a programmer easier.
+   - An integrated development environment (IDE) is a piece of software that *should* make your life as a programmer easier.
    - IntelliJ is an example of an IDE.
    
    ### Purpose

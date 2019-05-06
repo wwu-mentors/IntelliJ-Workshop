@@ -1,5 +1,33 @@
 # IntelliJ-Workshop
 
+## What's an IDE?
+   -IntelliJ is an example of an IDE
+   -An integrated development environment (IDE) is a piece of software that SHOULD make your life as a programmer easier.
+   
+   ### Purpose
+   1. Help the user write code with the use of several common features
+   2. Often, let the user compile and run the code completely within the IDE
+   3. Sometimes, provide GUI elements with in attempt to abstract ugly details of coding
+   
+   ### Common Features
+   1. Source code editting
+   2. Syntax highlighting
+   3. Code completion
+   4. Easy refactoring
+   5. Code cleanup
+   6. Debugging
+   7. Version control support (e.g. Git, Mercurial)
+   
+   ### Pros of IDEs
+   1. Make coding faster
+   2. Clean up our mess
+   3. Useful when projects grow big
+   
+   ### Cons of IDEs
+   1. Gotta jump through some hoops during setup
+   2. Make us reliant on the features they provide
+   3. Often do not support all common programming languages
+
 ## Getting started with IntelliJ
    1. Click "Create New Project"
    2. Select Java (on upper left side)

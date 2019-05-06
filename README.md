@@ -23,13 +23,13 @@
    1. Make coding faster
    2. Clean up our mess
    3. Useful when projects grow big
-   4. A lot of useful features
+   4. Lots of options
    
    ### Cons of IDEs
    1. Gotta jump through some hoops during setup
    2. Arguably, make us reliant on the features they provide
    3. Often do not support all common programming languages
-   4. A lot of features
+   4. Lots of options
 
 ## Getting started with IntelliJ
    1. Click "Create New Project".

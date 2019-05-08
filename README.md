@@ -2,7 +2,7 @@
 
 ## What's an IDE?
    - An integrated development environment (IDE) is a piece of software that *should* make your life as a programmer easier.
-   - Some examples of IDEs: jGRASP, Eclipse, Netbeans, VSCode, and IntelliJ.
+   - Some examples of IDEs: jGRASP, Eclipse, Netbeans, VSCode, PyCharm, and IntelliJ.
    
    ### Purpose
    1. Help the user write code with the use of several common features

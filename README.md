@@ -104,3 +104,8 @@
       - TODO: lists any todos listed in code
       - Version Control: shows ignored files
       - Terminal: is the terminal
+   - Refactoring:
+      - If you change a variable or a function, Refactor changes all instances of that function/variable
+      - Up top, click Refactor | Refactor This
+      - If you want to just rename something, Rename
+      - Type what you want to change it to

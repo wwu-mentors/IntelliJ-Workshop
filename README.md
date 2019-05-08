@@ -6,7 +6,7 @@
    
    ### Purpose
    1. Help the user write code with the use of several common features
-   2. Often, let the user compile and run the code completely within the IDE
+   2. Compile and run the code completely within the IDE
    3. Sometimes, provide GUI elements in attempt to abstract ugly details of coding
    
    ### Common Features
@@ -21,7 +21,7 @@
    
    ### Pros of IDEs
    1. Makes coding faster
-   2. Clean up our mess
+   2. Cleans up our mess
    3. Useful when projects get big
    4. Lots of options
    

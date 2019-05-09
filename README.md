@@ -61,6 +61,9 @@
    2. Select which Version Control you want to use (Gitlab = "Git").
    3. Log in. (should only have to do once).
    4. Clone your repository.
+   - Note to future mentors: if the repository isn't working, have them copy/paste the code into the directory they made in the previous step. It shoud work then!
+   
+   
   ### Pulling, Pushing, etc.
   The Version Control (VCS) tab  has all your Version control needs! Click on the "Git" submenu, there you can:
    - Create a new branch ("Branches")
